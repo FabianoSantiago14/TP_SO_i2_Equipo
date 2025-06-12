@@ -1,8 +1,10 @@
 Integrantes: Francisco Cattaneo, Santiago Fabiano, Federico Villegas
 
 a-¿Cómo actualizo mi repositorio, al estado que esté el repo que hice FORK?
+a- Actualizacion mi repositorio al estado del repositorio que hice fork por medio de un merge.
 
 b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
+b- si, se puede actualizar al estado de otro fork sin problema, tambien con merge.
 
 c-¿Puede GAMMA actualizar su FORK al estado del fork de ALFA?
 
