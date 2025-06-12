@@ -13,3 +13,21 @@ d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quie
 d- No, se fusionan osea se conservan mis datos y se agregan los nuevos
 
 e- realizar un listado, paso a paso ,de los comando necesarios para resolver este TP por orden de ejecución de los mismos junto con los apellidos y nombre de los alumnos
+e-E- 1- Primero Beta crea el repositorio, con un archivo llamado fork.txt
+2-Luego cada uno se forkea el repositorio
+3-Se clona el repositorio de manera local
+4-Se modifica el archivo agregando su nombre y apellido , la iP de la máquina y la hora, y hace
+el push a su repositorio
+6-Se pide un pull request al creador del repositorio
+7- Se sigue esta serie de pasos para actualizar el repositorio de manera local.
+git remote add upstream (repositorio)
+git fetch upstream
+git checkout main
+git merge upstream/main
+git push origin main
+8-Con la creacion de  NuevoDato.txt, nos aparece a los 3 el txt y el repositorio actualizado.
+
+Integrantes:
+Fabiano Santiago
+Villegas Federico
+Cattaneo Francisco
