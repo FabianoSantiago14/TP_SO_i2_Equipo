@@ -7,7 +7,9 @@ b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
 b- si, se puede actualizar al estado de otro fork sin problema, tambien con merge.
 
 c-¿Puede GAMMA actualizar su FORK al estado del fork de ALFA?
+c- depende, si el repertorio original se actualizo al estado de alfa entonces si, pero directamente del gamma al alfa no.
 
 d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quiero actualizar el fork?
+d- No, se fusionan osea se conservan mis datos y se agregan los nuevos
 
 e- realizar un listado, paso a paso ,de los comando necesarios para resolver este TP por orden de ejecución de los mismos junto con los apellidos y nombre de los alumnos
